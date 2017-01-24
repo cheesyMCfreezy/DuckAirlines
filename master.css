@@ -1,0 +1,24 @@
+body {
+  background-image: url('fc68fa064cca88185547a5511fa508b0.gif');
+  background-size: cover;
+  margin: 0;
+  text-align: center;
+}
+h1 {
+  color: #ffffff;
+}
+h2 {
+  color: #ffffff;
+}
+
+#mainPage {
+  position: relative;
+}
+
+#staff_info {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  color: white;
+  font-size: 50px;
+}
